@@ -1,4 +1,4 @@
-module goastviewer
+module github.com/knsh14/goastviewer
 
 go 1.25.0
 
